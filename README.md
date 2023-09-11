@@ -25,6 +25,6 @@ I'm a gaming enthusiast and passionate about game development.
 
 ### 📊 Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielV1213&show_icons=true&theme=github_dark)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRyder&show_icons=true&theme=github_dark)
 
 #
