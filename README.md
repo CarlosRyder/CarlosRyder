@@ -6,7 +6,7 @@ I'm a gaming enthusiast and passionate about game development.
 
 ### 🖥️ Languages and Tools 🖥️
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/26029/unity"/>
+<a target="_blank" href="https://icons8.com/icon/26029/unity">Unity</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
