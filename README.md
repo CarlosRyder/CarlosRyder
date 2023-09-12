@@ -12,7 +12,7 @@ I'm a gaming enthusiast and passionate about game development.
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://iconscout.com/icons/logo" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/513033/visual-studio-145.svg" />
 
 
 # 
